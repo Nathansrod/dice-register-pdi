@@ -1,0 +1,8 @@
+- Tendo em mãos três dados de cores diferentes, desenvolva um sistema que possibilite analisar se algum desses dados estão viciados.
+
+Algoritmo:
+1) Identificar a cor dos dados
+2) Identificar o número de cada dado
+3) Fazer uma série histórica de resultados, armazenando os valores em um vetor para cada tipo de dado (cor)
+
+
